@@ -123,21 +123,6 @@ TAC Gear Challenge (sun, wed, sat)
 Dark Normal 9-B (10 energy)
 Estimated Energy Required: 18,387
 Estimated Days Farming: 28 + several raids
-Gear Level 12
-30x Mk 12 ArmaTek Armor Plating Prototype Salvage
-Raid Only
-40x Mk 7 Nubian Design Tech Salvage
-Raid Only
-30x Mk 12 ArmaTek Visor Prototype Salvage
-Raid Only
-40x Mk 7 CEC Fusion Furnace Salvage
-Raid Only
-30x Mk 12 ArmaTek Multi-tool Prototype Salvage
-Raid Only
-40x Mk 8 Nubian Security Scanner Salvage
-Raid Only
-Estimated Energy Required: 0
-Estimated Days Farming: 0 + several raids
 
 50x Mk 5 Arakyd Droid Caller Salvage
 Raid Only
@@ -235,21 +220,6 @@ Dark Normal 1-F (6 energy)
 Dark Normal 4-B (6 energy)
 Estimated Energy Required: 18,486
 Estimated Days Farming: 29 + several raids
-Gear Level 12
-30x Mk 12 ArmaTek Multi-tool Prototype Salvage
-Raid Only
-40x Mk 8 Nubian Security Scanner Salvage
-Raid Only
-30x Mk 12 ArmaTek Cybernetics Prototype Salvage
-Raid Only
-40x Mk 7 Merr-Sonn Thermal Detonator Salvage
-Raid Only
-30x Mk 12 ArmaTek Medpac Prototype Salvage
-Raid Only
-40x Mk 6 Athakam Medpac Salvage
-Raid Only
-Estimated Energy Required: 0
-Estimated Days Farming: 0 + several raids
 
 Gear Level 11
 60x Mk 8 BioTech Implant Salvage
@@ -290,14 +260,3 @@ STR Gear Challenge (sun, mon, thu)
 Light Normal 9-D (10 energy)
 Estimated Energy Required: 14,031
 Estimated Days Farming: 22 + several raids
-Gear Level 12
-30x Mk 12 ArmaTek Multi-tool Prototype Salvage
-Raid Only
-40x Mk 8 Nubian Security Scanner Salvage
-Raid Only
-60x Mk 12 ArmaTek Armor Plating Prototype Salvage
-Raid Only
-80x Mk 7 Nubian Design Tech Salvage
-Raid Only
-Estimated Energy Required: 0
-Estimated Days Farming: 0 + several raids
