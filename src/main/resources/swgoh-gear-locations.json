@@ -1,0 +1,5605 @@
+{
+  "gearList": [
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-G",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Hard 5-E",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 3-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 7-G",
+          "cost": 8
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-A",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 TaggeCo Holo Lens"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 3-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-H",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-G",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 3-F",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 CEC Fusion Furnace"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 3-I",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 7-B",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 3-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-E",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 3-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 Loronar Power Cell"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-F",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Nubian Security Scanner"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-I",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 8-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 3-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 7-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 8-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-E",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 SoroSuub Keypad"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-D",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-C",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 5 BioTech Implant Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 8-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 1-C",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 3-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-K",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-K",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 BioTech Implant"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Hard 2-E",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-L",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-F",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-L",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 BlasTech Weapon Mod"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 3-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-A",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 6-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-C",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 7-C",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 3-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-E",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 BAW Armor Mod"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-J",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-E",
+          "cost": 16
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-D",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Nubian Design Tech Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 3-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 7-E",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 3-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 3-B",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 SoroSuub Keypad Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 1-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 3-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 8-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 1-E",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-C",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-E",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 BlasTech Weapon Mod"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-G",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-D",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-A",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-A",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 6 Loronar Power Cell Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-C",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 4-J",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-E",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-J",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 5 BlasTech Weapon Mod Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 3-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-G",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-D",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 3-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 3-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-A",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 BAW Armor Mod Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-F",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 6-J",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 8-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 1-D",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-C",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 Loronar Power Cell Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 5-C",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 1-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Hard 1-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Hard 1-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 8-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 BAW Armor Mod"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-L",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Hard 2-E",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 4-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 7-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-B",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Chedak Comlink Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 1-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-J",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-E",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-J",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Arakyd Droid Caller"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 4-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 7-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-D",
+          "cost": 16
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-F",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 5 Loronar Power Cell Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 8-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 4-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 8-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-H",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 BioTech Implant Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 5-B",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 4-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 7-F",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-D",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 Fabritech Data Pad Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-H",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-D",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-C",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 1-B",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 1-F",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 2-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 4-L",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-F",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-L",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 Arakyd Droid Caller Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-B",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-D",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Nubian Security Scanner Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-I",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 7-F",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 3-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Merr-Sonn Shield Generator"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-J",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-E",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-G",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 4-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-C",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-E",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 BlasTech Weapon Mod Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-I",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 7-H",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Chedak Comlink Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-J",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-A",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 A/KT Stun Gun"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Hard 2-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-K",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-E",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-K",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Neuro-Saav Electrobinoculars"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 1-B",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 3-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-K",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 7-C",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-K",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Chiewab Hypo Syringe"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-E",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 6-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 1-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-F",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-H",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-D",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 7-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-E",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Czerka Stun Cuffs"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-C",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 5-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 6-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-B",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-D",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 6 Fabritech Data Pad Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-G",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-D",
+          "cost": 12
+        },
+        {
+          "name": "Fleet Mission Normal 3-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 5-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 7-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-C",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 BAW Armor Mod Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 4-I",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 4-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Hard 5-E",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 6-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 8-C",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 5-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Hard 8-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-D",
+          "cost": 12
+        },
+        {
+          "name": "Fleet Mission Normal 4-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-E",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 8-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 1-E",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Hard 1-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 2-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-F",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-H",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Arakyd Droid Caller"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-G",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-B",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-G",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-D",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 3-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-E",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 1-C",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Hard 1-E",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 5-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 4-A",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-A",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-J",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 1-D",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-D",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 3-I",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-B",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-E",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 3-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 7-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 3-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-A",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-A",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-I",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-E",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 6-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-C",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 7-C",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 1-D",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Hard 3-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-A",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-L",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 4-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Hard 9-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 2-E",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 7-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-L",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-D",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-I",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-A",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-B",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-E",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-C",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-F",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 3-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-E",
+          "cost": 6
+        }
+      ],
+      "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-J",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-C",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Hard 4-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 8-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-A",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 5-I",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-E",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-A",
+          "cost": 16
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Normal 4-J",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-F",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Hard 2-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-L",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-I",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-C",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 TaggeCo Holo Lens"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-G",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-D",
+          "cost": 12
+        },
+        {
+          "name": "Fleet Mission Normal 2-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-D",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 CEC Fusion Furnace"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-H",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-D",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 6-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 8-G",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Merr-Sonn Shield Generator"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-J",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-E",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Hard 4-C",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-J",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-F",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Fabritech Data Pad"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-K",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 5-J",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 8-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-D",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-E",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-F",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 5-J",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-E",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-J",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-K",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 4-L",
+          "cost": 6
+        },
+        {
+          "name": "Dark Side Hard 4-F",
+          "cost": 12
+        },
+        {
+          "name": "Dark Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-A",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 8-H",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 4-L",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-D",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 1-E",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-H",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Loronar Power Cell"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 5-A",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 6-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 6-I",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Hard 9-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 2-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 5-A",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 5-D",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-D",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Hard 9-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 5-D",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 7-D",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 5-E",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 5-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-G",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 5-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 5-D",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 6 BlasTech Weapon Mod Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 5-F",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-G",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-D",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Hard 9-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 1-E",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 5-F",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 7-G",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Hard 9-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 2-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 7-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Normal 7-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-H",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 4 Arakyd Droid Caller Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 5-L",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 5-L",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 6 BioTech Implant Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 6-C",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 1-A",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 5-F",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-J",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 5-F",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 4 SoroSuub Keypad Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 6-C",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 5-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 5-D",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 2-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-F",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Hard 9-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 2-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 8-D",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 6-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 5-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 5-C",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 5-C",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 4 A/KT Stun Gun Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 6-G",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 2-E",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 7-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 7-G",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 3 Carbanti Sensor Array Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 6-J",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 2-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 6-J",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 3-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-B",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 3 Chedak Comlink Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 3-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 7-C",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-B",
+          "cost": 16
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-C",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 7 BioTech Implant Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 7-B",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-D",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 3-E",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-C",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 7-B",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 4 Chedak Comlink Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 7-C",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 7-C",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 7-E",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-A",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 3-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 7-E",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 7-F",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Dark Side Normal 8-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Hard 9-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 7-F",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 7-H",
+          "cost": 8
+        },
+        {
+          "name": "Dark Side Hard 7-D",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Hard 2-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 7-H",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 8-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 8-A",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 9 Kyrotech Battle Computer Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 8-C",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 3-B",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 5-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 7-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 7-D",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 3 Czerka Stun Cuffs Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 8-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 8-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 1-G",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Hard 1-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 1-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-A",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 3 Sienar Holo Projector Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Wrist Band Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 8-H",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 10 BlasTech Weapon Mod Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-B",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "name": "MK 8 Neuro-Saav Electrobinoculars Component"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Cybernetics Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-B",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Hard 9-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 5-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 10 Neuro-Saav Electrobinoculars"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-C",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-C",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 4 Zaltin Bacta Gel Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Multi-tool Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-B",
+          "cost": 20
+        },
+        {
+          "name": "Dark Side Hard 9-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Hard 5-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 9 Fabritech Data Pad Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 5-B",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 9 BioTech Implant Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 8 Nubian Design Tech Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-G",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-G",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 8 BioTech Implant Component"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 6 Carbanti Sensor Array Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Dark Side Hard 9-C",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 4-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Normal 4-E",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 5 Athakam Medpac Component"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-G",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 7 Merr-Sonn Thermal Detonator Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Dark Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 7 CEC Fusion Furnace Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 1-A",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Normal 1-G",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Hard 1-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-E",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-B",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 5-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Hard 5-D",
+          "cost": 16
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 3-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 Neuro-Saav Electrobinoculars"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 1-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 1-D",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 Fabritech Data Pad"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 1-F",
+          "cost": 8
+        },
+        {
+          "name": "Fleet Mission Hard 1-B",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 4-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 3-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-F",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-C",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 7-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 8-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 3-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 TaggeCo Holo Lens Prototype"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Hard 1-B",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Hard 1-C",
+          "cost": 16
+        },
+        {
+          "name": "Fleet Mission Normal 2-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 5-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 7-F",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Hard 9-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 5-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-F",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 2-E",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 2-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 3-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 3-H",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 2 Fabritech Data Pad"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 2-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Hard 9-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 2-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 6-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 8-C",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Hard 2-D",
+          "cost": 20
+        },
+        {
+          "name": "Fleet Mission Normal 3-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 7-E",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-C",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 7-E",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 3-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 3-A",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 4-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-L",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 7-C",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-B",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 8-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 4-C",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 4 TaggeCo Holo Lens Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 4-A",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-C",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 4-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 7 Merr-Sonn Shield Generator Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 4-B",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 4-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 4-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 9 Neuro-Saav Electrobinoculars Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 4-D",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 4-D",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 10 TaggeCo Holo Lens Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 4-F",
+          "cost": 10
+        },
+        {
+          "name": "Fleet Mission Hard 5-F",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 4-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 9 Fabritech Data Pad Component"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Hard 4-D",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 10 BlasTech Weapon Mod Component"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Hard 4-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-B",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "name": "MK 8 Neuro-Saav Electrobinoculars Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 5-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 5-D",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-D",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 6 Arakyd Droid Caller Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 5-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 5-F",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 8 Nubian Security Scanner Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 5-G",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 5-G",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 7 Chiewab Hypo Syringe Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Normal 5-H",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Fleet Mission Normal 5-H",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 6 Athakam Medpac Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Fleet Mission Hard 5-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 9-G",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-G",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 5 Athakam Medpac Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 1-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 2-E",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-E",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 4-H",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-D",
+          "cost": 12
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 1-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 2-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 3-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Normal 4-H",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 BioTech Implant"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 3-B",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-B",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 5-I",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-E",
+          "cost": 16
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 3-B",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Sienar Holo Projector"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 3-C",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-C",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-G",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-D",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 7-H",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 8-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 3-C",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 3 BlasTech Weapon Mod"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 3-F",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 3-E",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 6-C",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-B",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 8-A",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 8-A",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 3-F",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 1 Athakam Medpac Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 4-G",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-D",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-B",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-I",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-E",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 4-G",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 4-I",
+          "cost": 6
+        },
+        {
+          "name": "Light Side Hard 4-E",
+          "cost": 12
+        },
+        {
+          "name": "Light Side Normal 5-A",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-D",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 4-I",
+          "cost": 6
+        }
+      ],
+      "name": "Mk 5 BAW Armor Mod Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 5-F",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 6-I",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 6-E",
+          "cost": 20
+        },
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Hard 7-A",
+          "cost": 16
+        },
+        {
+          "name": "Light Side Normal 9-G",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 5-K",
+          "cost": 8
+        },
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 5 SoroSuub Keypad Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 7-B",
+          "cost": 8
+        }
+      ],
+      "name": "Mk 7 Kyrotech Shock Prod Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-A",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Armor Plating Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-B",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Tactical Data Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-C",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Medpac Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-E",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Visor Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 12 ArmaTek Bayonet Prototype Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Hard 9-C",
+          "cost": 20
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-F",
+          "cost": 10
+        },
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 8 BioTech Implant Salvage"
+    },
+    {
+      "locations": [
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "cheapestLocations": [
+        {
+          "name": "Light Side Normal 9-H",
+          "cost": 10
+        }
+      ],
+      "name": "Mk 7 Nubian Design Tech Salvage"
+    }
+  ]
+}

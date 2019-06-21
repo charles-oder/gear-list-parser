@@ -1,0 +1,5658 @@
+{
+  "nodes": [
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Normal 1-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        }
+      ],
+      "name": "Dark Side Normal 1-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 1-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 1-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 1-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 1-F"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Hard 1-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Hard 1-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Dark Side Hard 1-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 1-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Normal 2-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 2-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Dark Side Normal 2-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Dark Side Normal 2-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 2-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Dark Side Normal 2-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 2-G"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 2-H"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Dark Side Normal 2-I"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Dark Side Hard 2-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Dark Side Hard 2-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Hard 2-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Dark Side Hard 2-D"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 2-E"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 2-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Czerka Stun Cuffs"
+        }
+      ],
+      "name": "Dark Side Normal 3-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 3-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BAW Armor Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 3-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 3-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Dark Side Normal 3-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Normal 3-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Dark Side Normal 3-G"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 3-H"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        }
+      ],
+      "name": "Dark Side Normal 3-I"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Czerka Stun Cuffs"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BAW Armor Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 3-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Hard 3-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        }
+      ],
+      "name": "Dark Side Hard 3-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Hard 3-D"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Dark Side Hard 3-E"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 3-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Dark Side Normal 4-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Dark Side Normal 4-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 4-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 4-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 4-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Dark Side Normal 4-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Normal 4-G"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Dark Side Normal 4-H"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Dark Side Normal 4-I"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Dark Side Normal 4-J"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Dark Side Normal 4-K"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Dark Side Normal 4-L"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Dark Side Hard 4-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 4-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Dark Side Hard 4-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Hard 4-D"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Dark Side Hard 4-E"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Dark Side Hard 4-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        }
+      ],
+      "name": "Dark Side Normal 5-A"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 5-B"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Dark Side Normal 5-C"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Czerka Stun Cuffs"
+        }
+      ],
+      "name": "Dark Side Normal 5-D"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 5-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 5-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        }
+      ],
+      "name": "Dark Side Normal 5-G"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Normal 5-H"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Dark Side Normal 5-I"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 5-J"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 5-K"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 5-L"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 5-A"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 5-B"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 5-C"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Dark Side Hard 5-D"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Dark Side Hard 5-E"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 5-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Dark Side Normal 6-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Dark Side Normal 6-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Dark Side Normal 6-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 6-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 6-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Dark Side Normal 6-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 6-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Dark Side Normal 6-H"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 6-I"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 6-J"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        }
+      ],
+      "name": "Dark Side Hard 6-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 6-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        }
+      ],
+      "name": "Dark Side Hard 6-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Dark Side Hard 6-D"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        }
+      ],
+      "name": "Dark Side Hard 6-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 7-A"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        }
+      ],
+      "name": "Dark Side Normal 7-B"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        }
+      ],
+      "name": "Dark Side Normal 7-C"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 7-D"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 7-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Dark Side Normal 7-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 7-G"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Czerka Stun Cuffs"
+        }
+      ],
+      "name": "Dark Side Normal 7-H"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 7-A"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 7-B"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 7-C"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 7-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Kyrotech Battle Computer Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Normal 8-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 8-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Dark Side Normal 8-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Dark Side Normal 8-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Dark Side Normal 8-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Dark Side Normal 8-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Dark Side Normal 8-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 8-H"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 8-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 8-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 8-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 8-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Wrist Band Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 9-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "MK 8 Neuro-Saav Electrobinoculars Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 9-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Cybernetics Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 10 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Zaltin Bacta Gel Salvage"
+        }
+      ],
+      "name": "Dark Side Normal 9-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Multi-tool Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 BioTech Implant Salvage"
+        }
+      ],
+      "name": "Dark Side Normal 9-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 Nubian Design Tech Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Dark Side Normal 9-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Athakam Medpac Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 9-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 Merr-Sonn Thermal Detonator Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 10 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Dark Side Normal 9-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 CEC Fusion Furnace Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Dark Side Normal 9-H"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 8 Neuro-Saav Electrobinoculars Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 9-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 9-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Athakam Medpac Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 9-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        }
+      ],
+      "name": "Dark Side Hard 9-D"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-A"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-B"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-C"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-D"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Fleet Mission Normal 1-G"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Fleet Mission Hard 1-A"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 1-B"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Fleet Mission Hard 1-C"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 1-D"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Fleet Mission Hard 1-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Loronar Power Cell Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 2-G"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Fleet Mission Hard 2-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        }
+      ],
+      "name": "Fleet Mission Hard 2-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 2-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 2-D"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 2-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Fleet Mission Normal 3-G"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Fleet Mission Hard 3-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Fleet Mission Hard 3-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 SoroSuub Keypad Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 3-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BAW Armor Mod"
+        }
+      ],
+      "name": "Fleet Mission Hard 3-D"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Loronar Power Cell"
+        }
+      ],
+      "name": "Fleet Mission Hard 3-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 Merr-Sonn Shield Generator Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Chedak Comlink Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Athakam Medpac Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 4-G"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Fleet Mission Hard 4-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Fleet Mission Hard 4-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 Merr-Sonn Shield Generator Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 4-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 4-D"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "MK 8 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 4-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 BioTech Implant Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chedak Comlink Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Zaltin Bacta Gel Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 A/KT Stun Gun Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 Nubian Security Scanner Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Normal 5-H"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 5-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chedak Comlink Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 5-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 5-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 5-D"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 5-E"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        }
+      ],
+      "name": "Fleet Mission Hard 5-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [],
+      "name": "Light Side Normal 1-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [],
+      "name": "Light Side Normal 1-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        },
+        {
+          "count": 2,
+          "name": "Mk 1 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        }
+      ],
+      "name": "Light Side Normal 1-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        },
+        {
+          "count": 3,
+          "name": "Mk 1 CEC Fusion Furnace"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Light Side Normal 1-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Light Side Normal 1-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Normal 1-F"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        }
+      ],
+      "name": "Light Side Hard 1-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Light Side Hard 1-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Hard 1-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Light Side Hard 1-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Normal 2-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        }
+      ],
+      "name": "Light Side Normal 2-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BAW Armor Mod Prototype"
+        }
+      ],
+      "name": "Light Side Normal 2-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Normal 2-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        }
+      ],
+      "name": "Light Side Normal 2-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 2-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Czerka Stun Cuffs"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Normal 2-G"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Normal 2-H"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        }
+      ],
+      "name": "Light Side Normal 2-I"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BAW Armor Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Hard 2-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Light Side Hard 2-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Hard 2-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Hard 2-D"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Czerka Stun Cuffs"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Hard 2-E"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Hard 2-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Normal 3-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Sienar Holo Projector"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Normal 3-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Normal 3-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Normal 3-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Normal 3-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Normal 3-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Light Side Normal 3-G"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Light Side Normal 3-H"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        }
+      ],
+      "name": "Light Side Normal 3-I"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Hard 3-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Sienar Holo Projector"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Light Side Hard 3-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Hard 3-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Hard 3-D"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Hard 3-E"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Security Scanner"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Hard 3-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Normal 4-A"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        }
+      ],
+      "name": "Light Side Normal 4-B"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 4-C"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        }
+      ],
+      "name": "Light Side Normal 4-D"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Normal 4-E"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 4-F"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Light Side Normal 4-G"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Normal 4-H"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Normal 4-I"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Normal 4-J"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Light Side Normal 4-K"
+    },
+    {
+      "nodeCost": 6,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Normal 4-L"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Hard 4-A"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Nubian Security Scanner Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Hard 4-B"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Hard 4-C"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Chiewab Hypo Syringe Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Hard 4-D"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Neuro-Saav Electrobinoculars"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Hard 4-E"
+    },
+    {
+      "nodeCost": 12,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Hard 4-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Sienar Holo Projector"
+        }
+      ],
+      "name": "Light Side Normal 5-A"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Normal 5-B"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Light Side Normal 5-C"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Light Side Normal 5-D"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 5-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Normal 5-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Normal 5-G"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Normal 5-H"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Sienar Holo Projector"
+        }
+      ],
+      "name": "Light Side Normal 5-I"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        }
+      ],
+      "name": "Light Side Normal 5-J"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 5-K"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Normal 5-L"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Hard 5-A"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Light Side Hard 5-B"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Hard 5-C"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BlasTech Weapon Mod"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Neuro-Saav Electrobinoculars"
+        }
+      ],
+      "name": "Light Side Hard 5-D"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Sienar Holo Projector"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Nubian Design Tech Prototype"
+        }
+      ],
+      "name": "Light Side Hard 5-E"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Hard 5-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Light Side Normal 6-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Light Side Normal 6-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 6-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 CEC Fusion Furnace"
+        }
+      ],
+      "name": "Light Side Normal 6-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 BAW Armor Mod Prototype"
+        }
+      ],
+      "name": "Light Side Normal 6-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 6-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Normal 6-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BAW Armor Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Normal 6-H"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Normal 6-I"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 A/KT Stun Gun"
+        }
+      ],
+      "name": "Light Side Normal 6-J"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        }
+      ],
+      "name": "Light Side Hard 6-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Nubian Design Tech Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Athakam Medpac Salvage"
+        }
+      ],
+      "name": "Light Side Hard 6-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 A/KT Stun Gun Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BAW Armor Mod Salvage"
+        }
+      ],
+      "name": "Light Side Hard 6-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 BAW Armor Mod Salvage"
+        }
+      ],
+      "name": "Light Side Hard 6-D"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 6-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        }
+      ],
+      "name": "Light Side Normal 7-A"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 Kyrotech Shock Prod Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Normal 7-B"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Light Side Normal 7-C"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Light Side Normal 7-D"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        }
+      ],
+      "name": "Light Side Normal 7-E"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        }
+      ],
+      "name": "Light Side Normal 7-F"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 TaggeCo Holo Lens"
+        }
+      ],
+      "name": "Light Side Normal 7-G"
+    },
+    {
+      "nodeCost": 8,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Normal 7-H"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BAW Armor Mod Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 7-A"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 BioTech Implant Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        }
+      ],
+      "name": "Light Side Hard 7-B"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 7-C"
+    },
+    {
+      "nodeCost": 16,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Loronar Power Cell Salvage"
+        }
+      ],
+      "name": "Light Side Hard 7-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 8-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 SoroSuub Keypad"
+        }
+      ],
+      "name": "Light Side Normal 8-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Normal 8-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        }
+      ],
+      "name": "Light Side Normal 8-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 TaggeCo Holo Lens Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 BAW Armor Mod"
+        }
+      ],
+      "name": "Light Side Normal 8-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BlasTech Weapon Mod"
+        }
+      ],
+      "name": "Light Side Normal 8-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Merr-Sonn Shield Generator"
+        }
+      ],
+      "name": "Light Side Normal 8-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Loronar Power Cell"
+        }
+      ],
+      "name": "Light Side Normal 8-H"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 CEC Fusion Furnace Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Athakam Medpac Salvage"
+        }
+      ],
+      "name": "Light Side Hard 8-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 TaggeCo Holo Lens Salvage"
+        }
+      ],
+      "name": "Light Side Hard 8-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 6 Chiewab Hypo Syringe Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Carbanti Sensor Array Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 8-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 3 Czerka Stun Cuffs Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 8-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Armor Plating Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 7 Merr-Sonn Shield Generator Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Fabritech Data Pad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Arakyd Droid Caller"
+        }
+      ],
+      "name": "Light Side Normal 9-A"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Tactical Data Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Fabritech Data Pad"
+        }
+      ],
+      "name": "Light Side Normal 9-B"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Medpac Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 1 Carbanti Sensor Array Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chedak Comlink Prototype"
+        }
+      ],
+      "name": "Light Side Normal 9-C"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "MK 8 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 BioTech Implant Prototype"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Arakyd Droid Caller Salvage"
+        }
+      ],
+      "name": "Light Side Normal 9-D"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Visor Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 BioTech Implant"
+        }
+      ],
+      "name": "Light Side Normal 9-E"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 12 ArmaTek Bayonet Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 3 Sienar Holo Projector Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Sienar Holo Projector Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Chiewab Hypo Syringe"
+        }
+      ],
+      "name": "Light Side Normal 9-F"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 BlasTech Weapon Mod Prototype"
+        }
+      ],
+      "name": "Light Side Normal 9-G"
+    },
+    {
+      "nodeCost": 10,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 Nubian Design Tech Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Arakyd Droid Caller Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Fabritech Data Pad Prototype"
+        }
+      ],
+      "name": "Light Side Normal 9-H"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 7 Merr-Sonn Shield Generator Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 10 BlasTech Weapon Mod Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 SoroSuub Keypad Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 7 BlasTech Weapon Mod Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 9-A"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "MK 8 Neuro-Saav Electrobinoculars Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Nubian Security Scanner Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 9-B"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 9 Fabritech Data Pad Component"
+        },
+        {
+          "count": 1,
+          "name": "Mk 8 BioTech Implant Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Nubian Security Scanner Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 9-C"
+    },
+    {
+      "nodeCost": 20,
+      "items": [
+        {
+          "count": 1,
+          "name": "Mk 5 Athakam Medpac Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage"
+        },
+        {
+          "count": 1,
+          "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage"
+        }
+      ],
+      "name": "Light Side Hard 9-D"
+    }
+  ]
+}
